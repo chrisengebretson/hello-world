@@ -1,2 +1,4 @@
 # hello-world
-Removing first text, this ia both logical and confusing.
+Just getting started. 
+Removed first text, this is logical and confusing.
+Trying now to add more.
