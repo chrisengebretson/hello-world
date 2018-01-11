@@ -1,2 +1,4 @@
 # hello-world
-The beginning of all this
+Just getting started. 
+Removed first text, this is logical and confusing.
+Trying now to add more.
