@@ -1,2 +1,2 @@
 # hello-world
-The beginning of all this
+Removing first text, this ia both logical and confusing.
